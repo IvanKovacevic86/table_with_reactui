@@ -214,7 +214,7 @@ function App() {
       </form>
 
       <div style={{ marginTop: "100px" }}>
-        <h2 className="text-center">Neca je hemija, Kosovo je Srbija!</h2>
+        <h2 className="text-center">Table data</h2>
         <MDBRow>
           <MDBCol size="12">
             <MDBTable>
